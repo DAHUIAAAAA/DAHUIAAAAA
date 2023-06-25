@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently working on Bytedance.
+- 🌱 I’m currently learning FE.
+- 💬 Ask me about dahuiaaaaa@gmail.com
+- 📫 How to reach me: dahuiaaaaa@gmail.com
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DAHUIAAAAA&show_icons=true&theme=cobalt)
